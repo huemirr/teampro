@@ -1,4 +1,6 @@
-
+nav{
+    background-color: aqua;
+}
 .communityNav, .logo{
     display: flex;
     justify-content: space-evenly;

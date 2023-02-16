@@ -1,5 +1,7 @@
 import styles from '@/styles/communityPost.module.css'
 import Link from 'next/link';
+import Image from 'next/image';
+
 
 export default function communityPost() {
     return (
@@ -17,7 +19,7 @@ export default function communityPost() {
     </nav>
     <article>
       <div className={styles.communityUserProfile}>
-        <img src = "./img/1.JPG"  alt = 'userprofile' />
+        <Image src = "/images/1.JPG"  alt = 'userprofile' />
         <div className={styles.communityuserProfileWarp}>
           <h3>username</h3>
           <p>hour</p>
