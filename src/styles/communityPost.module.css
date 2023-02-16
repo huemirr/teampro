@@ -1,0 +1,20 @@
+
+.communityNav, .logo{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+.communityNav > ul{
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1000px;
+}
+
+.communityUserProfileWarp{
+    width: 500px;
+    display: flex;
+background-color: aqua;
+}
