@@ -18,7 +18,7 @@ export default function community() {
     </nav>
     <article>
       <ol>
-        <li><a href = '/community'>게시글1</a></li>
+        <li><a href = '/communityPost'>게시글1</a></li>
         <li><a href = '/community/2'>게시글2</a></li>
         <li><a href = '/community/2'>게시글3</a></li>
         <li><a href = '/community/2'>게시글4</a></li>
